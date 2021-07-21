@@ -146,7 +146,6 @@
                 >
                 . Nice to meet you.
               </h2>
-             
             </div>
           </section>
 
@@ -168,7 +167,6 @@
               <div class="flex flex-col items-center justify-center mt-6">
                 <a
                   class="max-w-2xl w-full block bg-white shadow-md rounded-md border-t-4 border-indigo-600 transition duration-500 ease-in-out transform hover:-translate-y-1 hover:scale-110"
-
                 >
                   <div class="flex items-center justify-between px-4 py-2">
                     <h3 class="text-lg font-medium text-gray-700">
@@ -221,7 +219,6 @@
 
                 <a
                   class="mt-8 max-w-2xl w-full block bg-white shadow-md rounded-md border-t-4 border-indigo-600 transition duration-500 ease-in-out transform hover:-translate-y-1 hover:scale-110"
-
                 >
                   <div class="flex items-center justify-between px-4 py-2">
                     <h3 class="text-lg font-medium text-gray-700">
@@ -377,12 +374,20 @@
             </div>
           </section>
 
-          <footer class="bg-white">
+
+
+          <footer class="bg-white" style="margin-top:15px">
             <div class="container mx-auto px-6 py-4">
               <div class="flex justify-between items-center">
-                <div>
-                  <div class="text-gray-600">&copy; Kohei Otani</div>
-                </div>
+                  <div class="text-gray-600" style="float:left;">&copy; Kohei Otani</div>
+                   <div style="float:right;">
+                    <a
+                      href="https://en.cryptobadges.io/donate/36PgpTemZHEdrsHDTJ1AEjucSC1JcVHVXU"
+                      ><img
+                        src="https://en.cryptobadges.io/badge/micro/36PgpTemZHEdrsHDTJ1AEjucSC1JcVHVXU"
+                        alt=""
+                    /></a>
+                  </div>
               </div>
             </div>
           </footer>
