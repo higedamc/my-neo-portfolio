@@ -7,8 +7,8 @@
         class="z-0 order-1 md:order-2 relative w-full md:w-2/5 h-80 md:h-full overflow-hidden rounded-lg md:rounded-none md:rounded-r-lg"
       >
         <div
-          class="absolute inset-0 w-full h-full object-fill object-center bg-blue-400 bg-opacity-30 bg-cover bg-bottom"
-          style="background-image: url( https://pbs.twimg.com/profile_images/1266448782935224320/t4plm6AG_400x400.jpg ); background-blend-mode: multiply;"
+          class="absolute inset-0 w-full h-full object-fill object-center bg bg-blue-400 bg-opacity-30 bg-cover bg-bottom"
+          style="background-image: url( /header_image.jpg ); background-blend-mode: multiply;"
         ></div>
         <div
           class="md:hidden absolute inset-0 h-full p-6 pb-6 flex flex-col-reverse justify-start items-start bg-gradient-to-b from-transparent via-transparent to-gray-900"
