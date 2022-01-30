@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/higechang
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://godzhigella.netlify.app
+  * I am higechang (https://keybase.io/higechang) on keybase.
+  * I have a public key ASC2P3NpUKVDsNqPGnPs5m2wYg1_LpAplbRsHue3JwzNmwo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01209aa5bdf996abc34ec8b3677b6e565a5241570c82c92cc463914f6259c46058930a",
+      "host": "keybase.io",
+      "kid": "0120b63f736950a543b0da8f1a73ece66db0620d7f2e902995b46c1ee7b7270ccd9b0a",
+      "uid": "ec03ea65b08c785eea4f6f9650690b19",
+      "username": "higechang"
+    },
+    "merkle_root": {
+      "ctime": 1643572261,
+      "hash": "b5caf0c378b84cfbc1d72b871be774deee537a29f97630f1c79bb005b6f1cf10599783cdf4f76b47164a3b858e0cf8f1b8ab2ed0b99ec9baa605b7e9eb712dd4",
+      "hash_meta": "b922fd453ec2dd7dd49ce4c4a1ff60a56a8731e5684cb5583363779130b9b3a4",
+      "seqno": 21756993
+    },
+    "service": {
+      "entropy": "N20CoaOmpfpJrxFfgrWaH7D8",
+      "hostname": "godzhigella.netlify.app",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.9.0"
+  },
+  "ctime": 1643572316,
+  "expire_in": 504576000,
+  "prev": "1a6c7f0544f27e3b2a2298cb7d982a7ad4c6a6a002161bf4271e06bf6a0c75f0",
+  "seqno": 124,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgtj9zaVClQ7Dajxpz7OZtsGINfy6QKZW0bB7ntycMzZsKp3BheWxvYWTESpcCfMQgGmx/BUTyfjsqIpjLfZgqetTGpqACFhv0Jx4Gv2oMdfDEIJnW7Fyf9yJ9AHB26vESGXXg24MGeDtZHm9Dw08jcXDSAgHCo3NpZ8RAHekSq/mIhb9l9YcJHIoitZpxR6+ZaYiJUF5CZ5SwyHKOwKGtHd1CfJ/6vUeim003O9W294C8KKSwhgADrdzqA6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIOTiittZZV1XDAIW/fwtM0wAEm5dn7bH7xEiS4A4PkZ/o3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/higechang
+
+==================================================================
