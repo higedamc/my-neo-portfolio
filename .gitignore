@@ -92,3 +92,4 @@ sw.*
 /.blackbox/pubring.kbx~
 /.blackbox/secring.gpg
 /localhost.pem
+/localhost-key.pem
