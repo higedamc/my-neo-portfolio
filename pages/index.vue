@@ -1,3 +1,5 @@
+<!-- TODO: ビットコインの寄付アイコン追加 -->
+<!-- TODO: DMAILの問い合わせ先追加 -->
 <template>
   <div class="container mx-auto my-5">
     <div class="relative rounded-lg flex flex-col md:flex-row items-center md:shadow-xl md:h-72">
