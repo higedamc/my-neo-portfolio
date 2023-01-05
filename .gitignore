@@ -88,3 +88,6 @@ sw.*
 
 # Vim swap files
 *.swp
+/.blackbox/pubring.gpg~
+/.blackbox/pubring.kbx~
+/.blackbox/secring.gpg
