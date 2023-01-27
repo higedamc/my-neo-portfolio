@@ -1,17 +1,17 @@
-// import fs from 'fs'
-// import path from 'path'
+import fs from 'fs'
+import path from 'path'
 
-// const server = {}
+const server = {}
 
-// if (process.env.NODE_ENV == 'development') {
-//   server.https = {
-//     key: fs.readFileSync(path.join(__dirname, 'localhost-key.pem')),
-//     cert: fs.readFileSync(path.join(__dirname, 'localhost.pem'))
-//   }
-// }
+if (process.env.NODE_ENV == 'development') {
+  server.https = {
+    key: fs.readFileSync(path.join(__dirname, 'localhost-key.pem')),
+    cert: fs.readFileSync(path.join(__dirname, 'localhost.pem'))
+  }
+}
 
 export default {
-  // server,
+  server,
   // Disable server-side rendering: https://go.nuxtjs.dev/ssr-mode
   ssr: false,
 
