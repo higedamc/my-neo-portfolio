@@ -1,6 +1,6 @@
 {
   "name": "my-neo-portfolio",
-  "version": "1.0.0",
+  "version": "1.22.10",
   "private": true,
   "scripts": {
     "dev": "nuxt dev --https --ssl-cert localhost.pem --ssl-key localhost-key.pem",
