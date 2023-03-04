@@ -1,3 +1,2 @@
-backup/keybase.txt
 localhost-key.pem
 localhost.pem

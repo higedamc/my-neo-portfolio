@@ -42,4 +42,3 @@ next-env.d.ts
 /.blackbox/secring.gpg
 /localhost.pem
 /localhost-key.pem
-/backup/keybase.txt
